@@ -1,0 +1,9 @@
+MIDlet-1: Звонок,/mainico.png,main
+MIDlet-Permissions: javax.microedition.io.Connector.file.read, javax.microedition.io.Connector.file.write
+MIDlet-Vendor: Мезенцев В. Н.
+MIDlet-Info-URL: http://vkontakte.ru/club18953849
+MIDlet-Name: Школьник-3
+MIDlet-Description: Программируемый музыкальный школьный звонок
+MIDlet-Version: 0.6.44
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
